@@ -10,7 +10,6 @@ while True:
 
     gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
 
-    if
 
     cv2.imshow("Capturing", gray)
     cv2.waitKey(1)
